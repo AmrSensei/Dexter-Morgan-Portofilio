@@ -4,8 +4,7 @@ This is a personal portfolio website inspired by the character Dexter Morgan fro
 
 ## Features
 - A sleek, dark-themed design that reflects Dexter's personality.
-- Interactive elements .
-- Responsive layout to ensure accessibility on various devices.
+- Interactive elements.
 - A creative way to present a personal portfolio with a unique theme.
 
 ## Technologies Used
