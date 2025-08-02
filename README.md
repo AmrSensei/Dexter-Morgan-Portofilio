@@ -2,7 +2,7 @@
 
 This is a personal portfolio website inspired by the character Dexter Morgan from the popular TV show *Dexter*. The portfolio showcases various web design and development skills while drawing on the dark and mysterious aesthetic associated with the show.
 
-![My Screenshot](images/priview.png)
+![My Screenshot](Images/priview.png)
 
 ## Features
 - A sleek, dark-themed design that reflects Dexter's personality.
